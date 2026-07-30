@@ -2,48 +2,47 @@
 
 # 👋 Olá, eu sou João Gabriel Ricardo Medeiros
 
-### 💻 Software Engineering Student | Back-end Developer | Technology Enthusiast
+### 🎓 Estudante de Engenharia de Software | 💻 Desenvolvedor Back-end | 🚀 Sempre aprendendo
 
-<p>
 <a href="https://www.linkedin.com/in/joão-gabriel-medeiros-9444603a5">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Joao-medeiroz">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=Joao-medeiroz&color=blue&style=for-the-badge"/>
-
-</p>
 
 </div>
 
 ---
 
-# 🚀 Sobre mim
+# 💻 Sobre mim
 
 🎓 Atualmente curso **Engenharia de Software** na **FIAP**.
 
-Concluí o curso de **Desenvolvimento de Sistemas** pela **ETEC**, onde desenvolvi uma sólida base em programação, banco de dados e desenvolvimento de software.
+📚 Sou formado em **Desenvolvimento de Sistemas pela ETEC**, onde desenvolvi uma base sólida em programação, banco de dados e desenvolvimento de software.
 
-Tenho interesse principalmente em desenvolvimento **Back-end**, arquitetura de software e automação de processos.
+💡 Tenho interesse em desenvolvimento **Back-end**, automação de processos e arquitetura de software.
 
-Atualmente busco minha **primeira oportunidade profissional** na área de tecnologia, onde possa aprender continuamente, colaborar com equipes e evoluir como desenvolvedor.
+🚀 Atualmente busco minha primeira oportunidade profissional para aplicar meus conhecimentos, aprender continuamente e crescer na área de tecnologia.
 
 ---
 
-# 💻 Tecnologias
+# 🚀 Tecnologias
 
 <div align="center">
 
 ### Linguagens
 
-<img src="https://skillicons.dev/icons?i=java,python,php,javascript,cpp,html,css,dotnet,kotlin,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,php,javascript,html,css,kotlin,dotnet,mysql"/>
+
+<br><br>
 
 ### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,androidstudio,figma,git,github"/>
+
+<br><br>
 
 ### Sistemas Operacionais
 
@@ -55,49 +54,33 @@ Atualmente busco minha **primeira oportunidade profissional** na área de tecnol
 
 # 📚 Conhecimentos
 
-✔ Programação Orientada a Objetos
-
-✔ Arquitetura MVC
-
-✔ MySQL
-
-✔ Scrum
-
-✔ Arduino
-
-✔ Cibersegurança
-
-✔ Power Automate
+- ✔ Programação Orientada a Objetos (POO)
+- ✔ Arquitetura MVC
+- ✔ Banco de Dados MySQL
+- ✔ Metodologia Scrum
+- ✔ Power Automate
+- ✔ Arduino
+- ✔ Fundamentos de Cibersegurança
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Joao-medeiroz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Joao-medeiroz&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-medeiroz&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-medeiroz&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Sequência de Contribuições
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Joao-medeiroz&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Joao-medeiroz&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Joao-medeiroz&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -107,30 +90,41 @@ Atualmente busco minha **primeira oportunidade profissional** na área de tecnol
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-medeiroz&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-medeiroz&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌎 Idiomas
+# 🎯 Atualmente estudando
 
-🇧🇷 Português — Nativo
+- ☕ Java
+- 🌐 Desenvolvimento Web
+- 🏛 Arquitetura de Software
+- 🔄 APIs REST
+- ☁️ Computação em Nuvem
+- 📱 Desenvolvimento Mobile
 
-🇺🇸 Inglês — Básico
+---
+
+# 🌍 Idiomas
+
+🇧🇷 **Português:** Nativo
+
+🇺🇸 **Inglês:** Básico
 
 ---
 
-# 🎯 Objetivo
-
-Atuar como desenvolvedor de software, contribuindo para projetos desafiadores, aprendendo continuamente e evoluindo tanto tecnicamente quanto profissionalmente.
-
----
+# 📫 Contato
 
 <div align="center">
 
-### ⭐ Obrigado pela visita!
+<a href="https://www.linkedin.com/in/joão-gabriel-medeiros-9444603a5">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-*"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."*
+<a href="mailto:joaogabrielricardom21@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
