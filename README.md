@@ -2,21 +2,26 @@
 
 # 👋 Olá, eu sou João Gabriel Ricardo Medeiros
 
-### 🎓 Estudante de Engenharia de Software | 💻 Desenvolvedor Back-end | 🚀 Sempre aprendendo
+###  Estudante de Engenharia de Software na FIAP
 
+💻 Desenvolvedor Full Stack • Apaixonado por Tecnologia • Sempre aprendendo
+
+<p>
 <a href="https://www.linkedin.com/in/joão-gabriel-medeiros-9444603a5">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Joao-medeiroz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</p>
 
 </div>
 
 ---
 
-# Sobre mim
+#  Sobre mim
 
 Sou estudante de Engenharia de Software na FIAP, com grande interesse em iniciar minha trajetória profissional na área de tecnologia. Concluí o Ensino Médio em 2025 e cursei Desenvolvimento de Sistemas pela ETEC, onde tive contato com fundamentos importantes de TI e programação.
 
@@ -26,103 +31,52 @@ Busco uma oportunidade para ingressar no mercado de tecnologia, me desenvolver p
 
 ---
 
-# Tecnologias
-
-<div align="center">
+#  Tecnologias
 
 ### Linguagens
 
+<p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,php,javascript,html,css,kotlin,dotnet,mysql"/>
-
-<br><br>
+</p>
 
 ### Ferramentas
 
+<p>
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,androidstudio,figma,git,github"/>
-
-<br><br>
+</p>
 
 ### Sistemas Operacionais
 
+<p>
 <img src="https://skillicons.dev/icons?i=windows,ubuntu"/>
-
-</div>
-
----
-
-# Conhecimentos
-
-- ✔ Programação Orientada a Objetos (POO)
-- ✔ Arquitetura MVC
-- ✔ Banco de Dados MySQL
-- ✔ Metodologia Scrum
-- ✔ Power Automate
-- ✔ Arduino
-- ✔ Fundamentos de Cibersegurança
+</p>
 
 ---
 
-# Estatísticas do GitHub
+#  Projetos em Destaque
 
-<div align="center">
+### 📱 Global Solution
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Joao-medeiroz&show_icons=true&theme=github_dark&hide_border=true"/>
+Projeto acadêmico desenvolvido utilizando **Kotlin**, aplicando conceitos de desenvolvimento mobile e resolução de problemas reais.
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-medeiroz&layout=compact&theme=github_dark&hide_border=true"/>
+### 📊 SistemaMonitoramento
 
-</div>
+Sistema desenvolvido para monitoramento de informações, aplicando conceitos de programação orientada a objetos e banco de dados.
 
----
-
-# Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Joao-medeiroz&theme=github-dark-blue&hide_border=true"/>
-
-</div>
+> Conforme eu desenvolver novos projetos, esta seção será atualizada.
 
 ---
 
-# Atividade
+#  Contato
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-medeiroz&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# Atualmente estudando
-
-- ☕ Java
-- 🌐 Desenvolvimento Web
-- 🏛 Arquitetura de Software
-- 🔄 APIs REST
-- ☁️ Computação em Nuvem
-- 📱 Desenvolvimento Mobile
-
----
-
-# Idiomas
-
-🇧🇷 **Português:** Nativo
-
-🇺🇸 **Inglês:** Básico
-
----
-
-# Contato
-
-<div align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/joão-gabriel-medeiros-9444603a5">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:joaogabrielricardom21@gmail.com">
+<a href="mailto:joaogabrielricardom21@gmail.com.br">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</p>
