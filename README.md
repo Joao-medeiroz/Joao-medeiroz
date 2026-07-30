@@ -16,19 +16,17 @@
 
 ---
 
-# 💻 Sobre mim
+# Sobre mim
 
-🎓 Atualmente curso **Engenharia de Software** na **FIAP**.
+Sou estudante de Engenharia de Software na FIAP, com grande interesse em iniciar minha trajetória profissional na área de tecnologia. Concluí o Ensino Médio em 2025 e cursei Desenvolvimento de Sistemas pela ETEC, onde tive contato com fundamentos importantes de TI e programação.
 
-📚 Sou formado em **Desenvolvimento de Sistemas pela ETEC**, onde desenvolvi uma base sólida em programação, banco de dados e desenvolvimento de software.
+Possuo conhecimentos em Java, JavaScript, PHP, Python, banco de dados MySQL, programação orientada a objetos, arquitetura MVC e metodologia Scrum, além de noções em Arduino. Também realizei cursos complementares pela Fundação Bradesco, Alura e SENAI, com foco em Pacote Office, Linguagem Java e Cibersegurança.
 
-💡 Tenho interesse em desenvolvimento **Back-end**, automação de processos e arquitetura de software.
-
-🚀 Atualmente busco minha primeira oportunidade profissional para aplicar meus conhecimentos, aprender continuamente e crescer na área de tecnologia.
+Busco uma oportunidade para ingressar no mercado de tecnologia, me desenvolver profissionalmente e atuar com aquilo com que me identifico.
 
 ---
 
-# 🚀 Tecnologias
+# Tecnologias
 
 <div align="center">
 
@@ -52,7 +50,7 @@
 
 ---
 
-# 📚 Conhecimentos
+# Conhecimentos
 
 - ✔ Programação Orientada a Objetos (POO)
 - ✔ Arquitetura MVC
@@ -64,7 +62,7 @@
 
 ---
 
-# 📊 Estatísticas do GitHub
+# Estatísticas do GitHub
 
 <div align="center">
 
@@ -76,7 +74,7 @@
 
 ---
 
-# 🔥 Sequência de Contribuições
+# Sequência de Contribuições
 
 <div align="center">
 
@@ -86,7 +84,7 @@
 
 ---
 
-# 📈 Atividade
+# Atividade
 
 <div align="center">
 
@@ -96,7 +94,7 @@
 
 ---
 
-# 🎯 Atualmente estudando
+# Atualmente estudando
 
 - ☕ Java
 - 🌐 Desenvolvimento Web
@@ -107,7 +105,7 @@
 
 ---
 
-# 🌍 Idiomas
+# Idiomas
 
 🇧🇷 **Português:** Nativo
 
@@ -115,7 +113,7 @@
 
 ---
 
-# 📫 Contato
+# Contato
 
 <div align="center">
 
