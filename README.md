@@ -4,7 +4,7 @@
 
 ###  Estudante de Engenharia de Software na FIAP
 
-💻 Desenvolvedor Full Stack • Apaixonado por Tecnologia • Sempre aprendendo
+💻 Desenvolvedor • Java & PHP & Python • Sempre em Desenvolvimento
 
 <p>
 <a href="https://www.linkedin.com/in/joão-gabriel-medeiros-9444603a5">
@@ -55,15 +55,17 @@ Busco uma oportunidade para ingressar no mercado de tecnologia, me desenvolver p
 
 #  Projetos em Destaque
 
-### 📱 Global Solution
+### AppAndroid
 
-Projeto acadêmico desenvolvido utilizando **Kotlin**, aplicando conceitos de desenvolvimento mobile e resolução de problemas reais.
+Nesse projeto, busquei desenvolver uma proposta viável de melhoria de UX/UI para a câmera do JOVI 70, trazendo consigo ideias como: Tradução, Transcrição e Scaneamento.
 
-### 📊 SistemaMonitoramento
+### SistemaMonitoramento
 
-Sistema desenvolvido para monitoramento de informações, aplicando conceitos de programação orientada a objetos e banco de dados.
+Esse projeto foi desenvolvido com o objetivo de auxiliar na segurança e acompanhamento de pessoas idosas. Utilizando o Arduino e a plataforma Wokwi, busquei simular situações como: temperatura, frequência cardíaca, distância em relação a um ponto de referência e possíveis impactos ou quedas.
 
-> Conforme eu desenvolver novos projetos, esta seção será atualizada.
+### Biblioteca
+
+O desenvolvimento desse sistema de gerenciamento de bibliotecas se deu com o objetivo de aprofundar e materializar os conhecimentos em PHP, MVC, Autoload, Login e banco de dados. O projeto foi desenvolvido grande parte em PHP, a fim de testar os meus conhecimentos e limites na prática.
 
 ---
 
